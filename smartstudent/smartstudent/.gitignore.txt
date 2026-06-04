@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment secrets - NEVER upload this!
+.env
+
+# Uploaded user files
+server/uploads/
+
+# Build output
+dist/
