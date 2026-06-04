@@ -1,0 +1,18 @@
+A student management system built using MERN Stack.
+
+## Features
+- Student Login
+- Assignment Upload
+- Notes Management
+- Email Notifications
+
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+## Installation
+
+npm install
+npm start
